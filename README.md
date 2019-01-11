@@ -2,4 +2,5 @@
 kottans-frontend
 
 О Курсе 
-курс по GIT: Детально, подробно  и доступно
+How to Use Git and GitHub
+Детально, подробно  и доступно
